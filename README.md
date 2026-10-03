@@ -91,4 +91,3 @@ AI-powered business analyst that converts natural language questions into SQL qu
 
 ---
 
-![Profile Views](https://komarev.com/ghpvc/?username=dishaasija315\&color=blue)
