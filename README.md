@@ -85,9 +85,7 @@ AI-powered business analyst that converts natural language questions into SQL qu
 
 # 📊 GitHub Stats
 
-![Disha's GitHub Stats](https://github-readme-stats.vercel.app/api?username=dishaasija315\&show_icons=true\&theme=dark\&hide_border=false)
+![Disha's GitHub Stats](https://github-readme-stats.vercel.app/api?username=dishaasija315&show_icons=true&theme=dark&hide_border=false&include_all_commits=true&count_private=true)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=dishaasija315\&layout=compact\&theme=dark\&hide_border=false)
-
----
+![GitHub Streak](https://streak-stats.demolab.com/?user=dishaasija315&theme=dark&hide_border=false)
 
