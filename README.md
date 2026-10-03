@@ -1,18 +1,94 @@
-# 💫 About Me:
-🔭 I’m currently building scalable full-stack applications using Java, Spring Boot, and modern web technologies<br>👯 I’m looking to collaborate on open-source Java projects, REST APIs, real-world web applications, and AI-integrated solutions<br>🤝 I’m looking for help with Microservices architecture, system design, and backend scalability<br>🌱 I’m currently learning advanced Spring Boot, database optimization, and exploring AI-driven features<br>💬 Ask me about Java, OOP, Spring Boot, REST APIs, or full-stack development<br>⚡ Fun fact: I focus on writing clean, maintainable, and scalable code
+# 👋 Hi, I'm Disha Asija
 
+### 🤖 GenAI Engineer | Python | RAG | AI Agents | LLMs
 
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/disha-asija-9317852a3/) 
+I build practical AI applications using Large Language Models, Retrieval-Augmented Generation, AI Agents, and modern AI engineering tools.
 
-# 💻 Tech Stack:
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7) ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens) ![Apache Maven](https://img.shields.io/badge/Apache%20Maven-C71A36?style=for-the-badge&logo=Apache%20Maven&logoColor=white) ![Apache Tomcat](https://img.shields.io/badge/apache%20tomcat-%23F8DC75.svg?style=for-the-badge&logo=apache-tomcat&logoColor=black) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Hibernate](https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=Hibernate&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.shion.dev/api?username=dishaasija315&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://streak-stats.demolab.com/?user=dishaasija315&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=dishaasija315&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+* 🔭 Currently building **GenAI and AI-powered applications**
+* 🧠 Working with **RAG, LLMs, AI Agents, Embeddings & Vector Search**
+* ⚙️ Building with **Python, LangChain, LangGraph & FastAPI**
+* 🗄️ Working with **Qdrant, ChromaDB, Redis & Mem0**
+* 🔬 Exploring **LoRA, QLoRA & Parameter-Efficient Fine-Tuning**
+* 🚀 Interested in building reliable and production-oriented AI systems
 
 ---
-[![](https://komarev.com/ghpvc/?username=dishaasija315&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+## 🌐 Connect With Me
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge\&logo=linkedin\&logoColor=white)](https://www.linkedin.com/in/disha-asija-9317852a3/)
+
+---
+
+# 💻 Tech Stack
+
+### 🐍 Languages
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge\&logo=python\&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge\&logo=postgresql\&logoColor=white)
+![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge\&logo=cplusplus\&logoColor=white)
+
+### 🤖 Generative AI
+
+![LLMs](https://img.shields.io/badge/LLMs-412991?style=for-the-badge)
+![RAG](https://img.shields.io/badge/RAG-FF6F00?style=for-the-badge)
+![AI Agents](https://img.shields.io/badge/AI%20Agents-7B61FF?style=for-the-badge)
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge\&logo=langchain\&logoColor=white)
+![LangGraph](https://img.shields.io/badge/LangGraph-1C3C3C?style=for-the-badge)
+![Hugging Face](https://img.shields.io/badge/Hugging%20Face-FFD21E?style=for-the-badge\&logo=huggingface\&logoColor=black)
+
+### 🧠 AI & Fine-Tuning
+
+![Embeddings](https://img.shields.io/badge/Embeddings-FF4B4B?style=for-the-badge)
+![Vector Search](https://img.shields.io/badge/Vector%20Search-4285F4?style=for-the-badge)
+![LoRA](https://img.shields.io/badge/LoRA-8A2BE2?style=for-the-badge)
+![QLoRA](https://img.shields.io/badge/QLoRA-6A5ACD?style=for-the-badge)
+
+### 🗄️ Vector Databases & Memory
+
+![Qdrant](https://img.shields.io/badge/Qdrant-DC244C?style=for-the-badge)
+![ChromaDB](https://img.shields.io/badge/ChromaDB-FF6B6B?style=for-the-badge)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge\&logo=redis\&logoColor=white)
+![Mem0](https://img.shields.io/badge/Mem0-000000?style=for-the-badge)
+
+### ⚙️ Frameworks & APIs
+
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge\&logo=fastapi\&logoColor=white)
+![Pydantic](https://img.shields.io/badge/Pydantic-E92063?style=for-the-badge)
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge\&logo=openai\&logoColor=white)
+![Gemini](https://img.shields.io/badge/Gemini-4285F4?style=for-the-badge\&logo=google\&logoColor=white)
+![Ollama](https://img.shields.io/badge/Ollama-000000?style=for-the-badge)
+
+### 🛠️ Developer Tools
+
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge\&logo=git\&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge\&logo=github\&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge\&logo=docker\&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge\&logo=postman\&logoColor=white)
+
+---
+
+# 🚀 Featured Projects
+
+### 🤖 Adaptive RAG
+
+Adaptive Retrieval-Augmented Generation system with query-aware retrieval, document comparison, contradiction detection, and grounded citations.
+
+**Tech:** Python • LangChain • LangGraph • Qdrant • FastAPI • LLMs
+
+### 🔍 NL-to-SQL Business Analyst
+
+AI-powered business analyst that converts natural language questions into SQL queries and provides data-driven responses.
+
+**Tech:** Python • LangGraph • LLMs • SQL • Streamlit
+
+---
+
+# 📊 GitHub Stats
+
+![Disha's GitHub Stats](https://github-readme-stats.vercel.app/api?username=dishaasija315\&show_icons=true\&theme=dark\&hide_border=false)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=dishaasija315\&layout=compact\&theme=dark\&hide_border=false)
+
+---
+
+![Profile Views](https://komarev.com/ghpvc/?username=dishaasija315\&color=blue)
